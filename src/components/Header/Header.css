@@ -1,0 +1,23 @@
+.header-container {
+    display: flex;
+    max-width: 1080px;
+    max-height: 52px;
+    justify-content: space-between;
+    width:100%;
+    margin-bottom:40px;
+}
+
+.header-container__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.header-container__blockicon {
+    display: flex;    
+}
+.header-container__icon {
+    margin-left:10px;  
+}

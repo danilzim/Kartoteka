@@ -1,0 +1,24 @@
+.card-container__info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-information {
+    margin: 15px 0px;
+    display:flex;
+    flex-direction: column;
+}
+
+.card-info__icon {
+    margin-right: 10px;
+}
+
+.link {
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: #43E8FF;
+}

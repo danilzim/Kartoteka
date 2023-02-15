@@ -1,0 +1,13 @@
+.menu {
+    max-width: 241px;
+    max-height: 995px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background: #1F2339;
+}
+
+.menu-body {
+    margin-top:40px;
+}
+

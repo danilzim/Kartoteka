@@ -1,0 +1,39 @@
+.card-description {
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #A1A6BE;
+}
+
+.card-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-info__text {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+}
+
+.card-info__temperature {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 80px;
+    line-height: 109px;
+    color:white;
+}
+
+.card-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #A1A6BE;
+}
+
+.card__footer {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,12 @@
+.body-card__cell {
+    display: flex;
+}
+.body-card__info {
+    display:flex;
+    flex-direction:column;
+    justify-content: center; 
+    margin-bottom:30px;
+}
+.frame-img {
+    height:170px;
+}

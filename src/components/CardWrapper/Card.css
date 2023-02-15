@@ -1,0 +1,9 @@
+.main-card {
+padding: 20px;
+background: #383E57;
+box-shadow: 7px 7px 8px rgba(0, 0, 0, 0.15);
+border-radius: 18px;
+display: flex;
+flex-direction: column;
+width: 100%;
+}

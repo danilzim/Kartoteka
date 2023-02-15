@@ -1,0 +1,27 @@
+.cards-container {
+    max-width: 1199px;
+    max-height: 859px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.first-card-type {
+    max-width: 340px;
+    max-height: 230px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.second-card-type {
+    max-width: 710px;
+    max-height: 230px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.third-card-type {
+    max-width: 525px;
+    max-height: 270px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,29 @@
+.card-wrapper__body {
+    display:flex;
+    align-items:center;
+    max-width: 650px;
+    max-height:183px;
+    justify-content: space-between;
+}
+
+.card-wrapper__table {
+    max-width: 374px;
+    max-height: 121px;
+    color:#FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    border-collapse:collapse;    
+}
+
+td {
+    border: 1px solid  #151E41;
+    padding: 5px 20px 5px 5px;
+    border-top:none;
+    border-left:none;
+}
+
+.range-img{
+    margin-bottom: 30px;
+}

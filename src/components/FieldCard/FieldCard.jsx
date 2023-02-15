@@ -1,11 +1,11 @@
-import "./HarvestCard.css";
+import "./FieldCard.css";
+
 import { Card } from "../CardWrapper/Card";
 
-export const HarvestCard = (props) => {
+export const FieldCard = (props) => {
   return (
     <Card className={props.className}>
       <div className="card-title">{props.title}</div>
-      <div className="card-subtitle">{props.subtitle}</div>
       <div className="fieldcard-img">
         <img src={props.img}></img>
       </div>
