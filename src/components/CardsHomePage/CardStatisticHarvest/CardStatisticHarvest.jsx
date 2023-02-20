@@ -1,5 +1,5 @@
 import "./CardStatisticHarvest.css";
-import { Card } from "../CardWrapper/Card";
+import { Card } from "../../CardWrapper/Card";
 
 export const CardStatisticHarvest = (props) => {
   return (

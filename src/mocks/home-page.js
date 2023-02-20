@@ -1,3 +1,8 @@
+export const headerHomeMock = {
+  title: "ИП Васильев",
+};
+
+
 export const fieldCardMock = {
   title: "Работа с полями",
   img: "images/field.png",

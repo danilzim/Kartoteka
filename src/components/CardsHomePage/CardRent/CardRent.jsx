@@ -1,5 +1,5 @@
 import "./CardRent.css";
-import { Card} from "../CardWrapper/Card";
+import { Card} from "../../CardWrapper/Card";
 
 export const CardRent = (props) => {
   return (

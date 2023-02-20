@@ -1,5 +1,5 @@
 import "./CardEmployee.css"
-import { Card } from "../CardWrapper/Card";
+import { Card } from "../../CardWrapper/Card";
 
 export const CardEmployee = (props) => {
   return (

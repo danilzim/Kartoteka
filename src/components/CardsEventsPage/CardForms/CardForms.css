@@ -1,0 +1,31 @@
+.forms-line {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.line-cheks {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.line {
+    border-bottom: 1px solid white;
+    max-width: 171px;
+    width: 100%;
+}
+
+
+.button-text {
+    background: #23273A;
+    border-radius: 6px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #43E8FF;
+    height:100%;
+}
+

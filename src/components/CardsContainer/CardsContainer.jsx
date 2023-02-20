@@ -1,12 +1,12 @@
 import "./CardsContainer.css";
-import { employeeCardMock, fieldCardMock, harvestCardMock, rentCardMock, statisticCardMock, statisticHarvestCardMock, weatherCardMock } from "../../mocks/fieldcard-mocks";
-import { HarvestCard } from "../HarvestCard/HarvestCard";
-import { FieldCard } from "../FieldCard/FieldCard";
-import { WeatherCard } from "../WeatherCard/WeatherCard";
-import { CardStatistic } from "../CardStatistic/CardStatistic";
-import { CardEmployee } from "../CardEmployee/CardEmployee";
-import { CardStatisticHarvest } from "../CardStatisticHarvest/CardStatisticHarvest";
-import { CardRent } from "../CardRent/CardRent";
+import { employeeCardMock, fieldCardMock, harvestCardMock, rentCardMock, statisticCardMock, statisticHarvestCardMock, weatherCardMock } from "../../mocks/home-page";
+import { HarvestCard } from "../CardsHomePage/HarvestCard/HarvestCard";
+import { FieldCard } from "../CardsHomePage/FieldCard/FieldCard";
+import { WeatherCard } from "../CardsHomePage/WeatherCard/WeatherCard";
+import { CardStatistic } from "../CardsHomePage/CardStatistic/CardStatistic";
+import { CardEmployee } from "../CardsHomePage/CardEmployee/CardEmployee";
+import { CardStatisticHarvest } from "../CardsHomePage/CardStatisticHarvest/CardStatisticHarvest";
+import { CardRent } from "../CardsHomePage/CardRent/CardRent";
 
 export const CardsContainer = () => {
   return (

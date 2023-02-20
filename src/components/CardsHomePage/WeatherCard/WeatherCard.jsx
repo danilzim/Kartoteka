@@ -1,5 +1,5 @@
 import "./WeatherCard.css";
-import { Card } from "../CardWrapper/Card";
+import { Card } from "../../CardWrapper/Card";
 
 export const WeatherCard = (props) => {
   return (

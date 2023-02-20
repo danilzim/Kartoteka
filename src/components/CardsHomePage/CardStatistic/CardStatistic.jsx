@@ -1,5 +1,5 @@
 import "./CardStatistic.css";
-import { Card } from "../CardWrapper/Card";
+import { Card } from "../../CardWrapper/Card";
 
 export const CardStatistic = (props) => {
   return (

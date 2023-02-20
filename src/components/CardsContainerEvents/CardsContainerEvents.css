@@ -1,0 +1,20 @@
+.card-company {
+    max-width: 525px;
+    max-height: 857px;
+    margin-right: 28px;
+    margin-bottom: 30px;
+}
+
+.card-forms {
+    max-width: 526px;
+    max-height: 166px;
+    margin-right: 30px;
+    margin-bottom: 26px;
+}
+
+.card-decision {
+    max-width: 525px;
+    max-height: 665px;
+    margin-right: 30px;
+    margin-bottom: 30px; 
+}
