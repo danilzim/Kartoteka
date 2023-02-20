@@ -1,13 +1,15 @@
+import { Link } from 'react-router-dom';
 import "./MenuItem.css";
 
+
 export const MenuItem = (props) => {
-  const { title, icon } = props;
+  const { title, icon, to } = props;
   return (
-    <div className="menu-item">
+    <Link to={to} className="menu-item">
       <div>
         <img className="menu-item__icon" src={icon} alt="image" />
       </div>
       <div className="menu-item__title">{title}</div>
-    </div>
+    </Link>
   );
 };
