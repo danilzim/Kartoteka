@@ -1,0 +1,27 @@
+.header-form {
+    max-width: 456px;
+    max-height: 56px;
+    display: flex;
+    background: #3E4459;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+    padding: 7px;
+}
+
+.header-form__input {
+    border: none;
+    background-color: transparent;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+    color: #C4C4C4;
+    flex-grow:1;
+}
+
+.header-form__button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}

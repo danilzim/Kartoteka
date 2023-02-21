@@ -5,6 +5,7 @@
     justify-content: space-between;
     width: 100%;
     margin-bottom: 40px;
+    align-items: center;
 }
 
 .header-container__title {
@@ -17,6 +18,7 @@
 
 .header-container__blockicon {
     display: flex;
+    align-items: center;
 }
 
 .header-container__icon {
