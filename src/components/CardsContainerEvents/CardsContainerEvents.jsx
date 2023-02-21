@@ -9,8 +9,10 @@ export const CardsContainerEvents = () => {
     return (
         <div className="cards-container">
             <CardCompanyStructure className="card-company" {...companyStructureMock}/>
+            <div className="cards-container__block">
             <CardForms className="card-forms" {...formsCardMock}/>
             <CardDecisionChecking className="card-decision" {...decisionCardMock}/>
+            </div>
         </div>
     )
 }

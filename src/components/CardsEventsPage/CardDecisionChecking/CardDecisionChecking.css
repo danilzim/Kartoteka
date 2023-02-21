@@ -1,10 +1,9 @@
 .card-decision__header {
     border-bottom: 1px solid black;
-    max-height: 136px;
-    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    height:100%;
 }
 
 .header-textarea {
@@ -12,9 +11,7 @@
     border-radius: 5px;
     max-width: 466px;
     max-height: 56px;
-    width: 100%;
-    height: 100%;
-    margin-top: 5px;
+    height:100%;
 }
 
 .card-decision__body {
@@ -84,6 +81,7 @@
     max-height: 36px;
     width: 100%;
     height: 100%;
+    cursor: pointer;
 }
 
 .card-decision__footer {

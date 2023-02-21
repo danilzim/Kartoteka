@@ -17,7 +17,6 @@
     width: 100%;
 }
 
-
 .button-text {
     background: #23273A;
     border-radius: 6px;
@@ -27,5 +26,6 @@
     line-height: 22px;
     color: #43E8FF;
     height:100%;
+    cursor: pointer;
 }
 

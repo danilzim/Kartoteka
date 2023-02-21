@@ -1,3 +1,10 @@
+.cards-container__block {
+    display: flex;
+    flex-direction: column;
+    max-width: 526px;
+    width: 100%;
+}
+
 .card-company {
     max-width: 525px;
     max-height: 857px;
@@ -17,4 +24,5 @@
     max-height: 665px;
     margin-right: 30px;
     margin-bottom: 30px; 
+    height: 100%;
 }

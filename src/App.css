@@ -10,5 +10,6 @@
     max-height: 1000px;
     flex-direction: column;
     padding: 50px 40px 60px;
+    width: 100%;
 }
 
